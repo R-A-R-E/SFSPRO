@@ -1,2 +1,10 @@
 SFS (SmartFoxServer) primarily used in older online flash games is a comprehensive -
 SDK for rapidly developing multiplayer games and applications with Unity, HTML5, iOS, Android, Java, Universal Windows Platform, Adobe Flash/Flex/Air, C++ and more. 
+
+Many people however are not aware the server is connected to with HTTP(?S) or either and TCP(SOCKET), enabling for easy connection from any 3rd party non gaming software, such as 
+a traniner, modding tool or even exploiters.
+
+An example for this is through the game produced by GoodGame Studios - Gangster, originally named Mafia.
+During the time this game has been around not many actual hacks have existed for the game itself aswell as alot of softwares contains malware have been floated around on
+the internet, either stealing your game login or infecting you whole computer.
+
